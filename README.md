@@ -163,10 +163,10 @@ sudo bash payville_setup.sh
 ### Script Written in Nano
 <img width="1438" height="783" alt="payville-script" src="https://github.com/user-attachments/assets/24bf6e43-1353-4e4e-a1c6-8533fd23eeb2" />
 
-### Script Part 2
+
 <img width="1278" height="744" alt="payville-script2" src="https://github.com/user-attachments/assets/62ad9578-e3af-4d14-9e42-22621226e5fe" />
 
-### Script Part 2
+
 <img width="1208" height="773" alt="paville-script3" src="https://github.com/user-attachments/assets/39e12b93-48b4-438a-97c6-35e400be05fe" />
 
 ### Output — Users and Directories
